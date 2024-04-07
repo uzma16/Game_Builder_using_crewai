@@ -1,14 +1,7 @@
-# AI Crew for Game Building
+# Game Building using Crew AI
 ## Introduction
 This project is an example using the CrewAI framework to automate the process of create simple games. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 
-
-
-- [CrewAI Framework](#crewai-framework)
-- [Running the script](#running-the-script)
-- [Details & Explanation](#details--explanation)
-- [Using Local Models with Ollama](#using-local-models-with-ollama)
-- [License](#license)
 
 ## CrewAI Framework
 CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to give a complete stock analysis and investment recommendation
@@ -26,5 +19,4 @@ CrewAI is designed to facilitate the collaboration of role-playing AI agents. In
   - `./tasks.py`: Main file with the tasks prompts.
   - `./agents.py`: Main file with the agents creation.
 
-## License
-This project is released under the MIT License.
+
